@@ -24,14 +24,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Earth Scientist and geochemist and postdoctoral researcher in the Department of Earth and Planetary Science at ETH Zurich. I received an MSci Geology degree (2018) and a PhD (2022) from Imperial College London. I was a postdoctoral researcher at the Natural History Museum, London (2022) and then held an ETH Zurich postdoctoral Fellowship (2023-2024)
+I am an Earth scientist and geochemist, currently a postdoctoral researcher in the Department of Earth and Planetary Sciences at ETH Zurich. I hold an MSci in Geology (2018) and a PhD in Earth Science (2022), both from Imperial College London. Following my PhD, I was a postdoctoral researcher at the Natural History Museum in London (2022), and subsequently held an ETH Zurich Postdoctoral Fellowship (2023–2024).
 
 **Research Interests**
 
-I am a geochemist, petrologist and computational geoscientist interested in understanding the fluxes of metals and volatiles in the Earth. I apply geochemistry, geochronology, machine learning and modelling approaches to track magmatic and hydrothermal processes forming mineral resources and develop tools that can be applied in mineral exploration. Broad interests incude:
+My research lies at the intersection of geochemistry, petrology, and computational geoscience. I study the fluxes of metals and volatiles through the Earth's crust and mantle, with a particular focus on magmatic and hydrothermal processes involved in the formation of mineral deposits. I integrate tools from geochemistry, geochronology, machine learning, and geochemical/thermodynamic modelling to better understand ore-forming systems and develop methods applicable to mineral exploration.
 
-- Petrogenesis of magmas related to ore deposits (e.g. porphyry deposits)
-- Machine learning and computer vision applications in geoscience and mineral exploration
-- Geochronology applied to magmatic and hydrothermal systems
-- Evolution of volatiles in magmas
-- Formation of sediment-hosted ore deposits
+Broad areas of interest include:
+- Petrogenesis of magmas associated with ore deposits (e.g., porphyry systems)
+- Applications of machine learning and computer vision in geoscience and exploration
+- Geochronology of magmatic and hydrothermal systems
+- Evolution and degassing of volatiles in magmatic systems
+- Formation mechanisms of sediment-hosted ore deposits
