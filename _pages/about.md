@@ -7,10 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>NW F 81.3</p>
-    <p>Clausiusstrasse 25</p>
-    <p>8092 Zürich, Switzerland</p>
+  more_info:
 
   
 selected_papers: true # includes a list of papers marked as "selected={true}"
