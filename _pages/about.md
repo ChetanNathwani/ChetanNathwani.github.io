@@ -27,4 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Testing. Testing. Testing.
+I am an Earth Scientist and geochemist and postdoctoral researcher in the Department of Earth and Planetary Science at ETH Zurich. I received an MSci Geology degree (2018) and a PhD (2022) from Imperial College London. I was a postdoctoral researcher at the Natural History Museum, London (2022) and then held an ETH Zurich postdoctoral Fellowship (2023-2024)
+
+**Research Interests**
+
+I am a geochemist, petrologist and computational geoscientist interested in understanding the fluxes of metals and volatiles in the Earth. I apply geochemistry, geochronology, machine learning and modelling approaches to track magmatic and hydrothermal processes forming mineral resources and develop tools that can be applied in mineral exploration. Broad interests incude:
+
+- Petrogenesis of magmas related to ore deposits (e.g. porphyry deposits)
+- Machine learning and computer vision applications in geoscience and mineral exploration
+- Geochronology applied to magmatic and hydrothermal systems
+- Evolution of volatiles in magmas
+- Formation of sediment-hosted ore deposits
