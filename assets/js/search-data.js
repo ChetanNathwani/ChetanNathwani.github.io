@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-gave-an-invited-talk-at-the-goldschmidt-conference-in-prague",
+          title: 'I gave an invited talk at the Goldschmidt conference in Prague',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
