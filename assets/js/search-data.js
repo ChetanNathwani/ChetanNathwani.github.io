@@ -142,11 +142,25 @@ ninja.data = [{
           window.open("mailto:%63%68%65%74%61%6E.%6E%61%74%68%77%61%6E%69@%65%61%70%73.%65%74%68%7A.%63%68", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/ChetanNathwani", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/cnathwani", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Chetan-Nathwani/", "_blank");
         },
       },{
         id: 'social-scholar',
