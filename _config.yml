@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🌋 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://chetannathwani.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -205,6 +205,15 @@ exclude:
   - _pages/about_einstein.md
   - _news/announcement_1*.md
   - _news/announcement_2*.md
+  - _projects/1_project.md
+  - _projects/2_project.md
+  - _projects/3_project.md
+  - _projects/4_project.md
+  - _projects/5_project.md
+  - _projects/6_project.md
+  - _projects/7_project.md
+  - _projects/8_project.md
+  - _projects/9_project.md
 
 keep_files:
   - CNAME
