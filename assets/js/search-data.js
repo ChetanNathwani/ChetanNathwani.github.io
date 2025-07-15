@@ -53,7 +53,7 @@ ninja.data = [{
           
         },
       },{id: "news-i-gave-an-invited-talk-at-the-goldschmidt-conference-in-prague",
-          title: 'I gave an invited talk at the Goldschmidt conference in Prague',
+          title: 'I gave an invited talk  at the Goldschmidt conference in Prague',
           description: "",
           section: "News",},{
         id: 'social-email',
