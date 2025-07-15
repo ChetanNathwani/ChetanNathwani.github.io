@@ -2,10 +2,12 @@
 layout: page
 permalink: /publications/
 title: publications
-description: most publications are available open access, please email me if you are unable to gain access to any. for the most up to date list please visit my [Google Scholar page](https://scholar.google.com/citations?user=Zi1PnrQAAAAJ&hl=en).
+description: most publications are available open access, please email me if you are unable to gain access to any.
 nav: true
 nav_order: 2
 ---
+
+> for the most up to date list please visit my [Google Scholar page](https://scholar.google.com/citations?user=Zi1PnrQAAAAJ&hl=en).
 
 <!-- _pages/publications.md -->
 
