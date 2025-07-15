@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave an invited talk at the Goldschmidt conference in Prague
+I gave an <a href="https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Paper/26898">invited talk</a>  at the Goldschmidt conference in Prague
