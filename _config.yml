@@ -203,8 +203,9 @@ exclude:
   - _pages/teaching.md
   - _pages/dropdown.md
   - _pages/about_einstein.md
+  # Note: individual announcement files in _news were previously excluded
   - _news/announcement_1*.md
-  - _news/announcement_2*.md
+  # - _news/announcement_2*.md
   - _projects/1_project.md
   - _projects/2_project.md
   - _projects/3_project.md
