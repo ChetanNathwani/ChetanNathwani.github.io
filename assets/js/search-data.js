@@ -55,6 +55,9 @@ ninja.data = [{
       },{id: "news-i-gave-an-invited-talk-at-the-goldschmidt-conference-in-prague",
           title: 'I gave an invited talk  at the Goldschmidt conference in Prague',
           description: "",
+          section: "News",},{id: "news-new-paper-out-in-geology-on-sulfur-speciation-in-the-deep-roots-of-a-subduction-zone",
+          title: 'New paper out in Geology on sulfur speciation in the deep roots of...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
