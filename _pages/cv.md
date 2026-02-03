@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: Chetan_Nathwani_CV_June_2025.pdf # you can also use external links here
-description: Last updated June 2025
+cv_pdf: Chetan_Nathwani_CV_Jan2026.pdf # you can also use external links here
+description: Last updated January 2026
 toc:
   sidebar: left
 ---
