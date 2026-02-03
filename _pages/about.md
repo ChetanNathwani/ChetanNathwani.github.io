@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher and Lecturer, ETH Zürich
+subtitle: Assistant Professor, Imperial College London
 profile:
   align: right
   image: chetan.jpg
