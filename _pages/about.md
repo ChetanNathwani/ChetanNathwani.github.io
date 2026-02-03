@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Earth scientist and geochemist, currently a postdoctoral researcher in the Department of Earth and Planetary Sciences at ETH Zurich. I hold an MSci in Geology (2018) and a PhD in Earth Science (2022), both from Imperial College London. Following my PhD, I was a postdoctoral researcher at the Natural History Museum in London (2022), and subsequently held an ETH Zurich Postdoctoral Fellowship (2023–2024).
+I am Assistant Professor of Mineral Resources at Imperial College London. I was previously a postdoctoral researcher in the Department of Earth and Planetary Sciences at ETH Zurich. I hold an MSci in Geology (2018) and a PhD in Earth Science (2022), both from Imperial College London. Following my PhD, I was also a postdoctoral researcher at the Natural History Museum in London (2022), and subsequently held an ETH Zurich Postdoctoral Fellowship (2023–2024).
 
 ## Research Interests
 

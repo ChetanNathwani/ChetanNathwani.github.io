@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Chetan Nathwani",
-    "position": "Postdoctoral Researcher & Lecturer at ETH Zürich",
+    "position": "Assistant Professor of Mineral Resources at Imperial College London",
     "image": "",
-    "email": "chetan.nathwani@eaps.ethz.ch",
+    "email": "chetan.nathwani@imperial.ac.uk",
     "url": "https://chetannathwani.github.io/",
     "location": {
       "address": "2712 Broadway St",
@@ -21,12 +21,19 @@
     ]
   },
   "work": [
+        {
+      "name": "Department of Earth Science and Engineering, Imperial College London",
+      "position": "Assistant Professor",
+      "url": "https://example.com",
+      "startDate": "2026-01-19",
+      "endDate": ""
+    },
     {
       "name": "Department of Earth and Planetary Sciences, ETH Zurich",
       "position": "Postdoctoral Researcher",
       "url": "https://example.com",
       "startDate": "2023-01-01",
-      "endDate": " "
+      "endDate": "2025-12-31"
     },
     {
       "name": "Natural History Museum, London",
