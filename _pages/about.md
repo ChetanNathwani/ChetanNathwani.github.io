@@ -28,12 +28,14 @@ I am Assistant Professor of Mineral Resources at Imperial College London. I was 
 
 ## Research Interests
 
-My research lies at the intersection of geochemistry, petrology, and computational geoscience. I study the fluxes of metals and volatiles through the Earth's crust and mantle, with a particular focus on magmatic and hydrothermal processes involved in the formation of mineral deposits. I integrate tools from geochemistry, geochronology, machine learning, and geochemical/thermodynamic modelling to better understand ore-forming systems and develop methods applicable to mineral exploration.
+I study the fluxes of metals and volatiles through the Earth’s crust and mantle, with a particular focus on magmatic and hydrothermal processes involved in the formation of mineral deposits. I integrate tools from geochemistry, geochronology, machine learning, and geochemical/thermodynamic modelling to better understand ore-forming systems and develop methods applicable to mineral exploration.
 
-Broad areas of interest include:
+Specifc areas of current interest include:
 
-- Petrogenesis of magmas associated with ore deposits (e.g., porphyry systems)
-- Applications of machine learning and computer vision in geoscience and exploration
-- Geochronology of magmatic and hydrothermal systems
-- Evolution and degassing of volatiles in magmatic systems
-- Formation of sediment-hosted ore deposits
+- Magmatic processes forming porphyry copper deposits
+- Cycling of metals and volatiles in subduction zones
+- Genesis of base metal deposits in sedimentary basins
+- Applications of data science and machine learning to extract more information from geochemical and textural data
+- Modelling of magmatic and hydrothermal processes
+
+Please feel free to get in touch if you are interested in collaborating.
