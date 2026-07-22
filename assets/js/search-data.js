@@ -58,6 +58,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-out-in-geology-on-sulfur-speciation-in-the-deep-roots-of-a-subduction-zone",
           title: 'New paper out in Geology on sulfur speciation in the deep roots of...',
           description: "",
+          section: "News",},{id: "news-i-ve-started-a-position-as-assistant-professor-of-mineral-resources-at-imperial-college-london",
+          title: 'I’ve started a position as Assistant Professor of Mineral Resources at Imperial College...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
